@@ -14,10 +14,18 @@
 ### En todo momento se establece un filtro visual de color por Sexo y otro filtro explícito por Departamento. Los datos numéricos son mostrados en promedios.
 ### En la mayoría de gráficos se establecen otros dos filtros por Puesto Laboral y por Campo Educativo.
 #
+----
+https://public.tableau.com/views/EmployeesAnaliticsDashboard1/AvgMonthlyIncomeandSatisfactionbyJobRoleandEducationField?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link
+
+----
 ### En la **primera visualización** podemos observar, en primer lugar,un *Gráfico de Barras* con la media de edad, los años en la compañía y los años en un mismo Puesto Laboral.
 ### En segundo lugar dos *Gráficos de Tarta* contiguos con la media de horas estándard trabajadas y el total de horas estándard trabajadas respectivamente.
 ### Y en tercer lugar un *Gráfico de Barras* que muestra la media mensual de ingresos, con su rango de medidas situado a la izquierda, junto a unas *marcas con formas circulares* que muestran la media de satisfacción por cada Puesto Laboral, con su rango de medidas situado a la derecha. Arriba podemos ver los distintos Departamentos y Puestos Laborales por cada Departamento, mientras que abajo podemos ver los distintos Campos Educativos por cada Puesto Laboral.
 #
+----
+https://public.tableau.com/views/EmployeesAnaliticsDashboard2/AvgJobPerformanceInvolvementSatisfaction?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link
+
+----
 ### En la **segunda visualización** podemos observar, en primer lugar, un *Gráfico de Barras* con la media de Evaluación de Rendimiento, con su rango de valores situado a la izquierda, y el Grado de Satisfacción en el Entorno Laboral, con su rango de valores situado a la derecha. Arriba podemos ver los distintos Departamentos y Puestos Laborales por cada Departamento, mientras que abajo podemos ver los distintos Campos Educativos por cada Puesto Laboral.
 ### En segundo lugar un *Gráfico de Tarta* con la media de Grado de Satisfacción en el Entorno Laboral por Departamento.
 ### En tercer lugar podemos ver un *Gráfico de marcas con formas circulares* mostrando la media de Grado de Involucración, con sus rangos de valores a la izquierda. Arriba podemos ver los distintos Departamentos y Puestos Laborales por cada Departamento, mientras que abajo podemos ver los distintos Campos Educativos por cada Puesto Laboral.
